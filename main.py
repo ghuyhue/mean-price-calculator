@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import pandas as pd
 url_root = "https://www.ebay.de/sch/i.html?_from=R40&_nkw=&_sacat=0&LH_TitleDesc=0&LH_Sold=1&rt=nc&LH_Complete=1&"
-target = input("Calculate mean sold price of:")
+target = input("Calculate mean sold price of: ")
 target = target.strip().replace(" ", "+")
 url_sub = url_root[:46] + target + url_root[46:]
 url = []
