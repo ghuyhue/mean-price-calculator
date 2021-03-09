@@ -12,5 +12,5 @@ You will need Python 3.x to run this script.
 
 # How to use it:
 
-After runnning the script you can type in the product to calculate the price of the desired product (just as is you would type into the search bar).
+After runnning the script you can type in the desired product to calculate the price of (just as is you would type into the search bar).
 It will print out the mean price after that.
