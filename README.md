@@ -1,6 +1,6 @@
 # mean-price-calculator
 This python script can be used to calculate the mean price in Euro of recently sold products on ebay.de of your choice.
-It can be used to help you determine the price you can sell your used goods online.
+It can be helpful to determine the price you can sell your used goods online.
 
 You will need Python 3.x to run this script.
 
